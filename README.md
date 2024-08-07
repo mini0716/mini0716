@@ -1,6 +1,6 @@
-안녕하세요, 김창민입니다.
+안녕하세요, 순천향대학교 AISW교육원 김창민입니다.
 
-잘 부탁드립니다.
+앞으로 잘 부탁드립니다.
 
 <!---
 mini0716/mini0716 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
